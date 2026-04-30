@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "Full:Test" : "npx playwright test"
-    
+    "Full:Test" : "npx playwright test",
+    "StockAccount":"npx playwright test tests/StockAccounting.spec.ts"
   },
   "keywords": [],
   "author": "",
